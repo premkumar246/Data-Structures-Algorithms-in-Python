@@ -1,8 +1,19 @@
 # Data Structures and Algorithms in Python 
 
-- This Repository contains material for preparing data structures and algorithms in python programming language.
-- It contains material on concepts and solutions with explanation step by step problems from Leetcode. 
-- The following is the list of topics covered under data structures. 
+- This Repository contains material for preparing data structures and algorithms in Python programming language.
+- It contains material on concepts and solutions with explanations step by step-by-step problems from Leetcode. 
+- The following is the list of topics covered under data structures.
+
+## Aim 
+- To learn and gain expertise in data structures and algorithms.
+- To learn how to write the most efficient code. 
+- To Crack top MNC companies' interviews.
+
+## Sources 
+- **Udemy** : https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/learn/lecture/22421158#overview.
+- **Textbook** : [Hands-on data structures and algorithms with python](https://acrobat.adobe.com/id/urn:aaid:sc:AP:ad162491-cee7-4d22-b5d3-dacbec3ea251)
+- **Textbook** : [Data Structures and Algorithmic Thinking with Python](https://acrobat.adobe.com/id/urn:aaid:sc:AP:2419c096-da24-4a4e-ba40-dcdf37f79612)
+- **Textbook** : [Object Oriented Programing and design](https://acrobat.adobe.com/id/urn:aaid:sc:AP:c39ec4ad-54be-4085-bbb8-0f47f341326f)
 
 ## Data structures 
 
@@ -13,7 +24,7 @@ Preparing for technical interviews, especially for companies like Maang, require
    - Dynamic arrays (e.g., Python lists)
 
 2. **Linked Lists:**
-   - Singly linked lists
+   - Singly-linked lists
    - Doubly linked lists
    - Circular linked lists
 
