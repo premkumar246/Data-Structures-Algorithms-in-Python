@@ -13,7 +13,15 @@
 - **Udemy** : [The Complete Data Structures and Algorithms Course in Python](https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/learn/lecture/22421158#overview).
 - **Textbook** : [Hands-on data structures and algorithms with python](https://acrobat.adobe.com/id/urn:aaid:sc:AP:ad162491-cee7-4d22-b5d3-dacbec3ea251)
 - **Textbook** : [Data Structures and Algorithmic Thinking with Python](https://acrobat.adobe.com/id/urn:aaid:sc:AP:2419c096-da24-4a4e-ba40-dcdf37f79612)
-- **Textbook** : [Object Oriented Programing and design](https://acrobat.adobe.com/id/urn:aaid:sc:AP:c39ec4ad-54be-4085-bbb8-0f47f341326f)
+- **Textbook** : [Object Oriented Programming and design](https://acrobat.adobe.com/id/urn:aaid:sc:AP:c39ec4ad-54be-4085-bbb8-0f47f341326f)
+
+## Plan 
+- Understand and revise all the basics of each data structure and algorithm.
+- Practice thrice how to write each data structure and algorithm.
+- Move to problem Solving
+   - Start with easy
+   - Then Medium
+   - The Hard   
 
 ## Data structures 
 
